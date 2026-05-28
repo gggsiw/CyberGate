@@ -559,7 +559,7 @@ def run():
     print(f"""
 {Color.BLUE}
 ========================================
- AI INCIDENT RESPONSE ASSISTANT PRO
+ CYBER GATE
  Version: {VERSION}
 ========================================
 {Color.RESET}
